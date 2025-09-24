@@ -13,7 +13,6 @@ public class Main {
         System.out.println("Nimbus is: " +period.getYears() + " years, "
                 + period.getMonths() + "months and "
                 + period.getDays() + " days old.");
-        System.out.println("Update");
     //------------------------------------------------------------------------
     }
 }
